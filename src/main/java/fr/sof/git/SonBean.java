@@ -6,6 +6,6 @@ public class SonBean {
     String string23= "ici on test";
     String string4 = "ici on test";
     String string5 = "ici on test";
-
+    String string6 = "ici on test";
 
 }
