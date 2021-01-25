@@ -5,7 +5,4 @@ public class AnotherClassBean {
     String secondString = "cela est la premiere branche";
     String thirdString = "cela est la premiere branche";
 
-    String thirdString = "cela est la premiere branche";
-    String thirdString = "cela est la premiere branche";
-    String thirdString = "cela est la premiere branche";
 }
