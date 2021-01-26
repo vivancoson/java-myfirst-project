@@ -5,7 +5,9 @@ public class AnotherClassBean {
     String secondString = "cela est la premiere branche";
     String thirdString = "cela est la premiere branche";
 
-    String thirdString = "cela est la premiere branche";
-    String thirdString = "cela est la premiere branche";
-    String thirdString = "cela est la premiere branche";
+    String thirdString3 = "cela est la premiere branche";
+    String thirdString4 = "cela est la premiere branche";
+    String thirdString5 = "cela est la premiere branche";
+
+    String thirdString6 = "cela single file merge";
 }
